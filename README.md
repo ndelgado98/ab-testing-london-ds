@@ -4,15 +4,10 @@ Lecture V2.1 AB Testing for London Flatiron Campus.
 
 * [Lecture Slides](https://docs.google.com/presentation/d/1PTuG9oKjRAIqc6SYOQ3g71nf8RK8YWCyT4LhuDXUzoc/edit?usp=sharing)
 
-* [Exit Ticket]() 
+* [Exit Ticket](https://forms.gle/LhWAWE9vaRu97TVs6) 
 
 * [AB Testing Article from Netflix](https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) 
 
-## To Do 
-
-* [ ] Create Exit Ticket 
-* [ ] Add interactive IPYNB 
-* [ ] Design AB Test for low power high effect no sig situation.
 
 ## Learning Goals 
 
